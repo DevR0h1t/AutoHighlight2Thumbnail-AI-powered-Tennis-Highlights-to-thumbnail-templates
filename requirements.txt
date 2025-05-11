@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+pandas
+pillow
+torch
+faiss-cpu
+fastapi
+uvicorn
+pyspark
