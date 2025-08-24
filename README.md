@@ -1,6 +1,8 @@
 # 🎾 AProj: Real‑Time Tennis Analytics
 
-**A cutting‑edge pipeline for automated tennis match analysis** — detect players, track the ball, reconstruct the court, and compute shot & player speed statistics in real time.
+**A pipeline for automated tennis match analysis** — detect players, track the ball, reconstruct the court, and compute shot & player speed statistics in real time.
+
+<img width="1037" height="590" alt="{35F04BFD-4684-431B-843A-23DAC86F5208}" src="https://github.com/user-attachments/assets/4771218a-7f38-4f5d-bd99-cc71c7981fe4" />
 
 ---
 
